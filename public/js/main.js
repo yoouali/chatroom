@@ -29,6 +29,7 @@ chatForm.addEventListener('submit', (e) => {
     
 });
 
+
 // Output message to DOM
 function outputMessage(message){
     const div = document.createElement('div');
